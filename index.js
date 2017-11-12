@@ -1,3 +1,7 @@
 // Write your solution in this file!
 const customerName = 'bob';
-  return 'bob';
+
+
+function upperCaseCustomerName(){
+  return customerName.toUpperCase
+}
