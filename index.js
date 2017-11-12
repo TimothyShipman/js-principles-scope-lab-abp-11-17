@@ -3,7 +3,7 @@ var customerName = 'bob';
 
 
 function upperCaseCustomerName(name){
-  return customerName;
+  colse.log(customerName.toUpperCase()) 
 }
 
-customerName.toUpperCase()
+
